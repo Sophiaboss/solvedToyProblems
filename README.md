@@ -4,4 +4,6 @@ There is nothing more satisfying than finally getting that one little knob to tu
 
 These do not go in order of difficulty since the sublte disscussions on that matter are endless
 
+Included are:
+
 JSON.Stringify - rebuilding JSON.Stringfy 
