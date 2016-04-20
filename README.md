@@ -6,4 +6,4 @@ These do not go in order of difficulty since the sublte disscussions on that mat
 
 Included are:
 
-JSON.Stringify - rebuilding JSON.Stringfy 
+JSON.Stringify - rebuilding JSON.Stringify 
